@@ -13,6 +13,6 @@
 [![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=YugeshGNaidu&repo=repo1)](https://github.com/YugeshGNaidu/repo1)
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yugeshnaidu)
 
 ![Snake Animation](https://github.com/YugeshGNaidu/YugeshGNaidu/blob/output/github-contribution-grid-snake.svg)
